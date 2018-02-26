@@ -24,6 +24,9 @@ Description needed...
 **Basic Reminders**   
 Description needed...
 
+**Finances**   
+Fiat and Crypto currencies. Description needed...  
+
 **Smart Home**   
 - **Thermostats & Zones**  
 Description needed...
@@ -54,7 +57,9 @@ I ideally don't want to spend a lot of money on something that I'm going to be s
   - [VIZIO D-Series D24F-F1 - 24" LED Smart TV](https://www.amazon.com/VIZIO-SmartCast-Class-Certified-Refurbished/dp/B078Z1DYD9): $140 refurb
   - [LG 22LJ4540 22in Class Full HD IPS LED TV](https://www.ebay.com/itm/LG-22LJ4540-22in-Class-Full-HD-IPS-LED-TV/172789253991): $119 refurb
 - **2-way mirror**   
-I'm probably going to go with the VanityVision glass from [Two Way Mirrors](https://www.twowaymirrors.com/smart-mirror/). Mostly becuase it just takes the thinking out of this part. They also sell touch overlays, and I dig the one-stop shop option as much as possible.
+I'm probably going to go with the VanityVision glass from [Two Way Mirrors](https://www.twowaymirrors.com/smart-mirror/). Mostly becuase it just takes the thinking out of this part. They also sell touch overlays, and I dig the one-stop shop option as much as possible. *these options are with 1/4" non-tempered glass, and sanded edges.*    
+  - With the Vizio D24F-F1 24", the glass will cost: $101.60    
+  - With the LG 22LJ4540 22", the glass will cost: $86.81    
 - **Touch Overlay**     
 See above.  
 - **Raspberry Pi**   
