@@ -1,2 +1,61 @@
-# smart-mirror
-The framework and modules for my own personal smart mirror
+# Smart Mirror
+This repository is the framework and modules for my own personal smart mirror.
+
+## Features
+**Screensaver**  
+The screensaver is going to manage two separate concerns of mine with this project. First, is burn-in. I really hate seeing the past seered into the screen. It just screams of laziness and neglect. Secondly, is that is going to be featured/mounted just outside of the kitchen, thus being seen by guests in the home. 
+My idea is to adapt a "timeout" feature similar to conference booth displays I've done in the past. After 3-5mins, a 10 second prompt will ask if you are still engaged with the mirror, if not it will take you back to the screensaver. In this case, a series of family photos that it will cycle through.
+
+**Calendar**  
+This seems like a no brainer. My wife and I maintain shared Google calendars that list everything from doctor's appointments for the family, pay weeks, days off, bills due, etc. All color coordinated for quick view. As I am looking to have this be a touch panel mirror as well, I will look to build some CRUD controls as well as just a view, but they will probably come in a later iteration.
+
+**Weather**  
+Another obvious addition. However, I feel like this feature will be something that evolves over time. Initially, it will be the basic current weather and a 5-10 day forecast. From there, it can take on more of the windy.com features. In future interiations, I would like it to link up with the calendar and travel plans and provide addition weather for destinations of vacations automatically, without the manual addition.
+
+**Traffic**   
+There are two parts to this feature that I would like to have. Obviously, travel times to work, as I have to take I-95 to work, which is *always* under construction, and people just drive like assholes, it's basically a guarentee that there will be some kind of congestion due to construction, or an accident. I also have to cross a draw bridge. Luckily they have a text system that sends out alerts anywhere from 15-45mins in advance. Pending accessibility to an API, I would want to pull those alerts into the mirror.
+
+**News**  
+Description needed...
+
+**Shopping Lists**  
+Description needed...
+
+**Basic Reminders**   
+Description needed...
+
+**Smart Home**   
+- **Thermostats & Zones**  
+Description needed...
+- **Smoke/CO2 Dectors**    
+Description needed...
+- **Front Door**  
+Description needed...
+- **Garage Door**  
+Description needed...
+- **Cameras** 
+Description needed...
+
+**Touch Enabled**   
+Description needed...
+
+**Voice Enabled**
+- **Alexa**   
+Description needed...
+- **Google Assistant**   
+Description needed...
+
+**Video Call**  
+Description needed...
+
+## PARTS
+- **LED TV**   
+Still looking, but currently the VIZIO D-Series D24F-F1 - 24" LED Smart TV caught my eye. It's $140 brand new, which is more than I'd ideally like to pay since I'm going to be stripping it down. Going to take a look on eBay and see what I can get from there.  
+- **2-way mirror**   
+I'm probably going to go with the VanityVision glass from https://www.twowaymirrors.com/smart-mirror/. Mostly becuase it just takes the thinking out of this part. They also sell touch overlays, and I dig the one-stop shop option as much as possible.
+- **Touch Overlay**     
+See above.  
+- **Raspberry Pi**   
+I have a Raspberry Pi 3 Model B already, waiting to get set up.  
+- **Frame**  
+I suppose that this will be the hardest part, as I don't have any wood working tools, and I doubt I am going to find a frame that will just work. Luckily, I have some carpenter connections that I might be able to get someone to make a custom frame for this project.  
