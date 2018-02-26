@@ -10,7 +10,7 @@ My idea is to adapt a "timeout" feature similar to conference booth displays I'v
 This seems like a no brainer. My wife and I maintain shared Google calendars that list everything from doctor's appointments for the family, pay weeks, days off, bills due, etc. All color coordinated for quick view. As I am looking to have this be a touch panel mirror as well, I will look to build some CRUD controls as well as just a view, but they will probably come in a later iteration.
 
 **Weather**  
-Another obvious addition. However, I feel like this feature will be something that evolves over time. Initially, it will be the basic current weather and a 5-10 day forecast. From there, it can take on more of the windy.com features. In future interiations, I would like it to link up with the calendar and travel plans and provide addition weather for destinations of vacations automatically, without the manual addition.
+Another obvious addition. However, I feel like this feature will be something that evolves over time. Initially, it will be the basic current weather and a 5-10 day forecast. From there, it can take on more of the [windy.com](https://www.windy.com/?39.938,-74.795,11) features. In future interiations, I would like it to link up with the calendar and travel plans and provide addition weather for destinations of vacations automatically, without the manual addition.
 
 **Traffic**   
 There are two parts to this feature that I would like to have. Obviously, travel times to work, as I have to take I-95 to work, which is *always* under construction, and people just drive like assholes, it's basically a guarentee that there will be some kind of congestion due to construction, or an accident. I also have to cross a draw bridge. Luckily they have a text system that sends out alerts anywhere from 15-45mins in advance. Pending accessibility to an API, I would want to pull those alerts into the mirror.
@@ -33,7 +33,7 @@ Description needed...
 Description needed...
 - **Garage Door**  
 Description needed...
-- **Cameras** 
+- **Cameras**  
 Description needed...
 
 **Touch Enabled**   
@@ -50,9 +50,11 @@ Description needed...
 
 ## PARTS
 - **LED TV**   
-Still looking, but currently the VIZIO D-Series D24F-F1 - 24" LED Smart TV caught my eye. It's $140 brand new, which is more than I'd ideally like to pay since I'm going to be stripping it down. Going to take a look on eBay and see what I can get from there.  
+I ideally don't want to spend a lot of money on something that I'm going to be stripping down. Also size is an issue, I can't go bigger than a 24" and have enough room for the frame and not have it hanging over the sides of the wall. 
+  - [VIZIO D-Series D24F-F1 - 24" LED Smart TV](https://www.amazon.com/VIZIO-SmartCast-Class-Certified-Refurbished/dp/B078Z1DYD9): $140 refurb
+  - [LG 22LJ4540 22in Class Full HD IPS LED TV](https://www.ebay.com/itm/LG-22LJ4540-22in-Class-Full-HD-IPS-LED-TV/172789253991): $119 refurb
 - **2-way mirror**   
-I'm probably going to go with the VanityVision glass from https://www.twowaymirrors.com/smart-mirror/. Mostly becuase it just takes the thinking out of this part. They also sell touch overlays, and I dig the one-stop shop option as much as possible.
+I'm probably going to go with the VanityVision glass from [Two Way Mirrors](https://www.twowaymirrors.com/smart-mirror/). Mostly becuase it just takes the thinking out of this part. They also sell touch overlays, and I dig the one-stop shop option as much as possible.
 - **Touch Overlay**     
 See above.  
 - **Raspberry Pi**   
