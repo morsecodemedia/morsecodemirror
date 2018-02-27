@@ -22,11 +22,17 @@ Description needed...
 **Shopping Lists**  
 Description needed...
 
+**Package Tracking**    
+I use [Slice](https://www.slice.com/) for tracking all of my online orders. They also offer a price-watch feature. If you order something and that product drops in proce withnin a certain amountd of time, they will notify you, with the proper contact information to see about getting a refund of the distance. They have an API, so of coulrse this has been added to the feature list.
+
 **Basic Reminders**   
 Description needed...
 
 **Finances**   
 Fiat and Crypto currencies. Description needed...  
+
+**Sports Scores**    
+Description needed...
 
 **Smart Home**   
 - **Thermostats & Zones**  
