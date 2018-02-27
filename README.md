@@ -4,6 +4,7 @@ This repository is the framework and modules for my own personal smart mirror.
 ## Features
 **Screensaver**  
 The screensaver is going to manage two separate concerns of mine with this project. First, is burn-in. I really hate seeing the past seered into the screen. It just screams of laziness and neglect. Secondly, is that is going to be featured/mounted just outside of the kitchen, thus being seen by guests in the home. 
+
 My idea is to adapt a "timeout" feature similar to conference booth displays I've done in the past. After 3-5mins, a 10 second prompt will ask if you are still engaged with the mirror, if not it will take you back to the screensaver. In this case, a series of family photos that it will cycle through.
 
 **Calendar**  
@@ -38,6 +39,11 @@ Description needed...
 Description needed...
 - **Cameras**  
 Description needed...
+- **Lights & Fans**  
+Description needed...
+- **Sprinkler System**  
+Description needed...
+
 
 **Touch Enabled**   
 Description needed...
@@ -57,11 +63,11 @@ I ideally don't want to spend a lot of money on something that I'm going to be s
   - [VIZIO D-Series D24F-F1 - 24" LED Smart TV](https://www.amazon.com/VIZIO-SmartCast-Class-Certified-Refurbished/dp/B078Z1DYD9): $140 refurb
   - [LG 22LJ4540 22in Class Full HD IPS LED TV](https://www.ebay.com/itm/LG-22LJ4540-22in-Class-Full-HD-IPS-LED-TV/172789253991): $119 refurb
 - **2-way mirror**   
-I'm probably going to go with the VanityVision glass from [Two Way Mirrors](https://www.twowaymirrors.com/smart-mirror/). Mostly becuase it just takes the thinking out of this part. They also sell touch overlays, and I dig the one-stop shop option as much as possible. *these options are with 1/4" non-tempered glass, and sanded edges.*    
+I'm probably going to go with the VanityVision glass from [Two Way Mirrors](https://www.twowaymirrors.com/smart-mirror/). Mostly becuase it just takes the thinking out of this part. *These options are with 1/4" non-tempered glass, and sanded edges.*    
   - With the Vizio D24F-F1 24", the glass will cost: $101.60    
   - With the LG 22LJ4540 22", the glass will cost: $86.81    
 - **Touch Overlay**     
-See above.  
+While TWM offers suggestions for various touch overlays, all the options they recommend don't provide solutions for smaller than 32". I found myself on [Alibaba](https://www.alibaba.com/) getting decent results with a various range of sizes.  
 - **Raspberry Pi**   
 I have a Raspberry Pi 3 Model B already, waiting to get set up.  
 - **Frame**  
