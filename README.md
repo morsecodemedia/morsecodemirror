@@ -17,7 +17,7 @@ Another obvious addition. However, I feel like this feature will be something th
 There are two parts to this feature that I would like to have. Obviously, travel times to work, as I have to take I-95 to work, which is *always* under construction, and people just drive like assholes, it's basically a guarentee that there will be some kind of congestion due to construction, or an accident. I also have to cross a draw bridge. Luckily they have a text system that sends out alerts anywhere from 15-45mins in advance. Pending accessibility to an API, I would want to pull those alerts into the mirror.
 
 **News**  
-Description needed...
+Will probably start with a string of RSS feeds from sources like https://lobste.rs. Ultimately, I would like to have this be short audio/video clips that will play throuhg a list. Similar to Plex News, however with better content. I might go so far as to build in an Amazon Polly module, that will just read me the news articles from the RSS feeds, if I can't find the A/V option.
 
 **Shopping Lists**  
 Description needed...
