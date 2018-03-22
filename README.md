@@ -50,18 +50,25 @@ Description needed...
 - **Sprinkler System**  
 Description needed...
 
+**Facial Recognition**  
+Thinking about putting a webcam into the frame and set up some facial recognition. Mostly because I can, but for additional functionality, maybe using the facial recognition to do live filtering on the data being displayed on the mirror. If I decide to actually build this functionality out, it will be siloed to just my personal mirror to start and then in future iterations will I make it configurable for other users to install on their own.
 
 **Touch Enabled**   
 Description needed...
 
 **Voice Enabled**
 - **Alexa**   
-Description needed...
+I can either wire up an Echo Dot and have Alexa enable voice commands. However, Amazon has a Github repo that walks you through how to install the ASK SDK onto a Pi and you can build your own Alexa device. The only difference is that it won't always be listening for the Alexa wake work like the Echo devices would be. You would have to have a button trigger the listening. I'm not totally against that, especially if this route allows you to have custom "wake words" than the select few that are built into the manufactored Alexa-enabled devices.
+
+The DIY route will also help force my hand into doing the Facial Recognition, as well as the Video calling functionalities as I will probably purcahse the Playstation Eye (camera and mic) online, so I'll have all the hardware.
+
 - **Google Assistant**   
-Description needed...
+If I'm going to make the mirror voice enabled with manufactured Alexa-enabled devices, rather than a DIY Alexa, then I'm going to make it be able to be controlled by either Alexa or Google Assistant based on what the user has.
+
+Siri and Cortana and kick rocks, I have no intention on going down those rabbit holes.
 
 **Video Call**  
-Description needed...
+If I'm going to wire up the webcam/mic into the frame, then it would make total sense to enable video call functionalities.
 
 ## PARTS
 - **LED TV**   
