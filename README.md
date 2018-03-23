@@ -60,12 +60,12 @@ Description needed...
 - **Alexa**   
 I can either wire up an Echo Dot and have Alexa enable voice commands. However, Amazon has a Github repo that walks you through how to install the ASK SDK onto a Pi and you can build your own Alexa device. The only difference is that it won't always be listening for the Alexa wake work like the Echo devices would be. You would have to have a button trigger the listening. I'm not totally against that, especially if this route allows you to have custom "wake words" than the select few that are built into the manufactored Alexa-enabled devices.
 
-The DIY route will also help force my hand into doing the Facial Recognition, as well as the Video calling functionalities as I will probably purcahse the Playstation Eye (camera and mic) online, so I'll have all the hardware.
+  The DIY route will also help force my hand into doing the Facial Recognition, as well as the Video calling functionalities as I will probably purcahse the Playstation Eye (camera and mic) online, so I'll have all the hardware.
 
 - **Google Assistant**   
 If I'm going to make the mirror voice enabled with manufactured Alexa-enabled devices, rather than a DIY Alexa, then I'm going to make it be able to be controlled by either Alexa or Google Assistant based on what the user has.
 
-Siri and Cortana and kick rocks, I have no intention on going down those rabbit holes.
+  Siri and Cortana can kick rocks, I have no intention on going down those rabbit holes.
 
 **Video Call**  
 If I'm going to wire up the webcam/mic into the frame, then it would make total sense to enable video call functionalities.
