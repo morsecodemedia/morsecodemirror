@@ -25,6 +25,13 @@ Description needed...
 **Package Tracking**    
 I use [Slice](https://www.slice.com/) for tracking all of my online orders. They also offer a price-watch feature. If you order something and that product drops in proce withnin a certain amountd of time, they will notify you, with the proper contact information to see about getting a refund of the distance. They have an API, so of course this has been added to the feature list.
 
+This feature is something of an internal debate for a few different reasons. 
+
+First is the security issue. For Slice to work, you need to give it access to your inbox. Which, in my opinion, the normal person would blindly accept that and have all kinds of crap in their inbox open for scraping by a company, that in today's climate, may be handling all your data in a very insecure and non-ethical matter. I however, segement things out by email addresses. So the email address I use for online orders (in this case, specifically online orders to brick and morters for when I don't have the time or the energy to have real human interaction), is just for that - online orders. I don't have to worry about finanical institutions or personal family emails being scraped - I have other email addresses for that. Even some of my online purchases, such as tech that I can ultimately write off for work/freelance have their own email address. Like I said, this is not a standard practice of most people, and I want to try to make this project less specific for me and more customizable for anyone who wants to clone it down and build their own.
+
+The second issue, is visibility. By that I mean that this mirror is going to be the core component to my household "command center". Both myself and my wife will be using it. When special events roll around (birthdays, anniversaries, Christmas, etc.), we don't want the surprised to be ruined because a package tracking app is listing the items in said delivery. Now my original plan was to take the return from the API and parse out just the shipping company, tracking number and the expected delivery date. But given the aforementioned security issue, I might build something custom that I will have to manually feed it an array of tracking numbers. ...more to come...
+
+
 **Basic Reminders**   
 Description needed...
 
