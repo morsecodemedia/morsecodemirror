@@ -2,6 +2,9 @@
 This repository is the framework and modules for my own personal smart mirror.
 
 ## Features
+
+[![Feature Requests](http://feathub.com/morsecodemedia/smart-mirror?format=svg)](http://feathub.com/morsecodemedia/smart-mirror)
+
 **Screensaver**  
 The screensaver is going to manage two separate concerns of mine with this project. First, is burn-in. I really hate seeing the past seered into the screen. It just screams of laziness and neglect. Secondly, is that is going to be featured/mounted just outside of the kitchen, thus being seen by guests in the home. 
 
