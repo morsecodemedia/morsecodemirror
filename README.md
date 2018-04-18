@@ -1,5 +1,13 @@
-# Smart Mirror
-This repository is the framework and modules for my own personal smart mirror.
+# Smart Mirror 
+[![GitHub license](https://img.shields.io/github/license/morsecodemedia/smart-mirror.svg)](https://github.com/morsecodemedia/smart-mirror/blob/master/LICENSE) 
+![Github All Releases](https://img.shields.io/github/downloads/morsecodemedia/smart-mirror/total.svg) 
+![GitHub release](https://img.shields.io/github/release/morsecodemedia/smart-mirror.svg)
+[![GitHub issues](https://img.shields.io/github/issues/morsecodemedia/smart-mirror.svg)](https://github.com/morsecodemedia/smart-mirror/issues) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/morsecodemedia/smart-mirror.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/morsecodemedia/smart-mirror.svg)
+
+
+This repository is the framework and modules for my own personal smart mirror. Once I get it in a good place, I will set it up to be more flexible and scalable for distribution.
 
 ## Features List/Requests
 
