@@ -10,6 +10,7 @@
 This repository is the framework and modules for my own personal smart mirror. Once I get it in a good place, I will set it up to be more flexible and scalable for distribution.
 
 ## Features List/Requests
+If you would like to vote on a feature or suggest a new feature, click on the list below and add it to FeatHub.
 
 [![Feature Requests](http://feathub.com/morsecodemedia/smart-mirror?format=svg)](http://feathub.com/morsecodemedia/smart-mirror)
 
