@@ -13,12 +13,20 @@ This repository is the framework and modules for my own personal smart mirror. O
 
 ``` bash
 # install dependencies
+yarn
+  --or--
 npm install
 # serve with hot reload at localhost:9080
+yarn run dev
+  --or--
 npm run dev
 # build electron application for production
+yarn run build
+  --or--
 npm run build
 # lint all JS/Vue component files in `src/`
+yarn run lint
+  --or--
 npm run lint
 ```
 
