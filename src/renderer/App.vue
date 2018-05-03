@@ -7,7 +7,7 @@
 <script>
   export default {
     name: 'smart-mirror',
-  };
+  }
 </script>
 
 <style>

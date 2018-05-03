@@ -8,7 +8,9 @@ module.exports = {
     browser: true,
     node: true
   },
-  extends: 'airbnb-base',
+  extends: [
+    "eslint:recommended",
+  ],
   globals: {
     __static: true
   },
@@ -16,6 +18,7 @@ module.exports = {
     'html'
   ],
   'rules': {
+    "semi": [2, "never"],
     'global-require': 0,
     'import/no-unresolved': 0,
     'no-param-reassign': 0,
